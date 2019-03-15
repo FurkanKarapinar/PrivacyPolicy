@@ -18,7 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
-*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
+*   [Tapdaq](https://www.tapdaq.com/privacy-policy)
 
 
 **Log Data**
