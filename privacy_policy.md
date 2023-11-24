@@ -1,5 +1,5 @@
 PRIVACY NOTICE
-Last updated June 10, 2020
+Last updated June 10, 2023
 
 
 
